@@ -5,7 +5,6 @@
 
         <div class="section-title">
           <h2>Resume</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
 
         <div class="row">
@@ -15,9 +14,9 @@
               <h4>Saman Sahraei</h4>
               <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
               <ul>
-                <li>Portland par 127,Orlando, FL</li>
+                <li>Iran/Abdanan</li>
                 <li>(123) 456-7891</li>
-                <li>alice.barkley@example.com</li>
+                <li>sahraei.saman91@gmail.com</li>
               </ul>
             </div>   
             <h3 class="resume-title">Education</h3>
@@ -25,13 +24,14 @@
               <h4>Computer Engineering </h4>
               <h5>2010 - 2014</h5>
               <p><em>Computer Software Engineering Ilam State University</em></p>
-              <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
+              <p>I have done my bachelor of Computer Software Engineering in Ilam University</p>
             </div>
+            <h3 class="resume-title">Education</h3>
             <div class="resume-item">
-              <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-              <h5>2010 - 2014</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
+              <h4>Languages</h4>
+              <!-- <p><em>Rochester Institute of Technology, Rochester, NY</em></p> -->
+              <p>English: Professional working proficiency</p>
+              <p>Persian: Native</p>
             </div>
           </div>
           <div v-if="resumeDetails" class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
