@@ -34,23 +34,23 @@
             },
             "sass": {
                 "title": "SASS",
-                "percentage": 100
+                "percentage": 80
             },
             "typescript": {
                 "title": "Typescript",
-                "percentage": 100
+                "percentage": 60
             },
             "wordpress": {
                 "title": "Wordpress",
-                "percentage": 100
+                "percentage": 70
             },
             "photoshop": {
                 "title": "Photoshop",
-                "percentage": 100
+                "percentage": 60
             },
             "illustrator": {
                 "title": "Illustrator",
-                "percentage": 100
+                "percentage": 60
             }
         },
         "resume": {
