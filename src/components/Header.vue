@@ -15,6 +15,7 @@
           <a href="https://www.youtube.com/channel/UCt0vTAROMfhsnzI7bw-47vw" target="_blank" class="twitter"><i class="bx bxl-youtube"></i></a>
           <a href="https://www.instagram.com/saman__sahraei/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
           <a href="https://www.linkedin.com/in/saman-sahraei-91a9b118a/" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+          <a href="https://github.com/saman-sah" target="_blank" class="github"><i class="bx bxl-github"></i></a>
         </div>
       </div>
 
@@ -25,7 +26,7 @@
           <li><a href="#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
           <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Portfolio</span></a></li>
           <li><a href="#services" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Services</span></a></li>
-          <li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a></li>
+          <!-- <li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a></li> -->
         </ul>
       </nav><!-- .nav-menu -->
     </div>
