@@ -11,15 +11,7 @@
   <main id="main" v-if="userDetail">
 
     <about-component :aboutDetails= userDetail.about></about-component>
-    <certificates-component></certificates-component>
-    <skill-component :skillDetails= userDetail.skills></skill-component>
-    <resume-component :resumeDetails= userDetail.resume></resume-component>
-
-
-
-
-
-
+    
     <!-- ======= Portfolio Section ======= -->
     <section id="portfolio" class="portfolio section-bg">
       <div class="container">
@@ -43,10 +35,11 @@
       </div>
     </section><!-- End Portfolio Section -->
 
+    <resume-component :resumeDetails= userDetail.resume></resume-component>
 
-
-    <services-component :servicesDetails= userDetail.services></services-component>
-    <testimonials-component :testimonialsDetails= userDetail.testimonials></testimonials-component>
+    <certificates-component></certificates-component>
+    <skill-component :skillDetails= userDetail.skills></skill-component>
+    <learning-component :learningDetails= userDetail.learning></learning-component>
     <!-- <contact-component :contactDetails= userDetail.contact></contact-component> -->
     
   </main><!-- End #main -->
@@ -58,10 +51,8 @@ import About from '../components/home/About.vue'
 import Certificates from '../components/home/Certificates.vue'
 import Skill from '../components/home/Skill.vue'
 import Resume from '../components/home/Resume.vue'
-import Services from '../components/home/Services.vue'
-import Testimonials from '../components/home/Testimonials.vue'
-import Contact from '../components/home/Contact.vue'
-
+import Learning from '../components/home/Learning.vue'
+// import Contact from '../components/home/Contact.vue'
 import Websites from '../components/portfolio/Websites.vue'
 import Illustrator from '../components/portfolio/Illustrator.vue'
 import Photoshop from '../components/portfolio/Photoshop.vue'
@@ -77,10 +68,8 @@ export default {
     'certificates-component': Certificates,
     'skill-component': Skill,
     'resume-component': Resume,
-    'services-component': Services,
-    'testimonials-component': Testimonials,
-    'contact-component': Contact,
-
+    'learning-component': Learning,
+    // 'contact-component': Contact,
     'portfolio-website': Websites,
     'portfolio-illustrator': Illustrator,
     'portfolio-phootshop': Photoshop,
