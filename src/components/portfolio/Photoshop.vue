@@ -1,54 +1,57 @@
 <template>
-    <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+    <div class="row psd-container" data-aos="fade-up" data-aos-delay="100">
+        <div class="col-lg-4 col-md-6 portfolio-item psd-item psd-item-1">
             <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+                <img src="assets/img/portfolio/psd/psd-1.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                <a href="https://www.accutekpackaging.com/" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
-                </div>
-            </div>
-            <div class="s_portfolio-details">
-                <h4>title: WP</h4>
-            </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/portfolio-2.png" class="img-fluid" alt="">
-                <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="https://greenkong.com/" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
                 </div>
             </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+        <div class="col-lg-4 col-md-6 portfolio-item psd-item psd-item-2">
             <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+                <img src="assets/img/portfolio/psd/psd-2.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-                <a href="http://shop1.com/" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
                 </div>
             </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+        <div class="col-lg-4 col-md-6 portfolio-item psd-item psd-item-3">
             <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+                <img src="assets/img/portfolio/psd/psd-3.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                <a href="https://stocksoftheday.com/" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
                 </div>
             </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+        <div class="col-lg-4 col-md-6 portfolio-item psd-item psd-item-4">
             <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+                <img src="assets/img/portfolio/psd/psd-4.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                <a href="https://dev.crossroadstrikes.com/" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item psd-item psd-item-5">
+            <div class="portfolio-wrap">
+                <img src="assets/img/portfolio/psd/psd-5.jpg" class="img-fluid" alt="">
+                <div class="portfolio-links">
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item psd-item psd-item-6">
+            <div class="portfolio-wrap">
+                <img src="assets/img/portfolio/psd/psd-6.jpg" class="img-fluid" alt="">
+                <div class="portfolio-links">
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item psd-item psd-item-7">
+            <div class="portfolio-wrap">
+                <img src="assets/img/portfolio/psd/psd-7.jpg" class="img-fluid" alt="">
+                <div class="portfolio-links">
                 </div>
             </div>
         </div>
