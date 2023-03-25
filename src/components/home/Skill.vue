@@ -89,10 +89,6 @@
 <script>
 export default {
   props:['skillDetails'],
-  mounted() {
-    // console.log('this.skillDetails');
-    // console.log(this.skillDetails);
-  },
 }
 </script>
 
