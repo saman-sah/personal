@@ -11,6 +11,7 @@
   import Footer from './components/Footer.vue'
 export default {
   created() {
+    // invok function for getting data from API
     this.getUserInfo();    
   },
   updated() {
@@ -21,16 +22,7 @@ export default {
   data() {
     return {
       base_url: 'http://localhost:3000/',
-      userInfo: null,
-    }
-  },
-  components: {
-    'header-component': Header,
-    'footer-component': Footer
-  },
-  methods: {
-    getUserInfo() {
-      this.userInfo= {
+      userInfo: {
         "header": {
             "title": "Saman Sahraei",
             "caption": "I'm a Front-End Developer"
@@ -115,21 +107,27 @@ export default {
             }
 
         },
-    
       }
-      // this.axios.get(this.base_url+'saman', {
-      //   headers: {
-      //     Accept: "application/json",
-      //   }
-      // })
-      // .then((response)=> {
-      //   this.userInfo= response.data;
-      // })
-      // .catch((err)=>{
-      //   console.log(err.message);
-      // })
-      console.log('this.userInfo');
-      console.log(this.userInfo);
+    }
+  },
+  components: {
+    'header-component': Header,
+    'footer-component': Footer
+  },
+  methods: {
+    getUserInfo() {
+      // Get User Info from API
+      this.axios.get(this.base_url+'saman', {
+        headers: {
+          Accept: "application/json",
+        }
+      })
+      .then((response)=> {
+        this.userInfo= response.data;
+      })
+      .catch((err)=>{
+        console.log(err.message);
+      })
     }
   },
 }

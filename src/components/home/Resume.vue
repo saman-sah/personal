@@ -60,10 +60,6 @@
 <script>
 export default {
   props:['resumeDetails'],
-  mounted() {
-    console.log('this.resumeDetails');
-    console.log(this.resumeDetails);
-  },
 }
 </script>
 

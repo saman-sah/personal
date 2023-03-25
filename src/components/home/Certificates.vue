@@ -68,10 +68,6 @@
 
 <script>
 export default {
-  mounted() {
-    console.log('this.factDetails');
-    console.log(this.factDetails);
-  },
 }
 </script>
 
