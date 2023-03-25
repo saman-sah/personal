@@ -35,10 +35,9 @@
               </div>
             </div>
             <p>
-              I'm optimistic, smart, self-confident, hardworking, and have a positive mindset.My strong soft skill is Perseverance.
-              My technical skills include proficiency in HTML, CSS, JavaScript, VueJs(Vuex, Composition API, Pinia,...) and Git.
-               Also , I have completed training courses Sass, TypeScript, Flex-Grid, NodeJs.
-               I am interested in Illustrator, Photoshop and Designing
+              I am hard working person and I learn anything easily.I am pretty committed  to work and company than i'll be working for.
+              My hobbies are watch learning video from youtube, reading book, playing chess, playing video game, working out and watch sky with my telescope.
+              
             </p>
           </div>
         </div>

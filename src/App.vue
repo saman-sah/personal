@@ -14,7 +14,7 @@ export default {
     // invok function for getting data from API
     this.getUserInfo();    
   },
-  updated() {
+  mounted() {
     const customJs = document.createElement("script");
     customJs.setAttribute("src","../assets/js/custom.js");
     document.head.appendChild(customJs);
@@ -30,7 +30,7 @@ export default {
         "about": {
             "birthday": "22 September 1991",
             "age": 31,
-            "degree": "Bachelor",
+            "degree": "Bachelor of Computer Software Engineering",
             "email": "sahraei.saman91@gmail.com",
             "website": "www.samsahra.com",
             "city": "Abdanan, Ilam, IR"

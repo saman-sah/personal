@@ -12,7 +12,12 @@
             <h3 class="resume-title">Sumary</h3>
             <div class="resume-item pb-0">
               <h4>Saman Sahraei</h4>
-              <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
+              <p><em>                
+                I'm optimistic, smart, self-confident, hardworking, and have a positive mindset.My strong soft skill is Perseverance.
+                My technical skills include proficiency in HTML, CSS, JavaScript, VueJs(Vuex, Composition API, Pinia,...) and Git.
+                Also , I have completed training courses Sass, TypeScript, Flex-Grid, NodeJs.
+                I am interested in Illustrator, Photoshop and Designing
+              </em></p>
               <ul>
                 <li>Iran/Abdanan</li>
                 <li>(123) 456-7891</li>
