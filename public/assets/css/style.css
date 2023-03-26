@@ -683,6 +683,39 @@ section {
   padding: 0;
 }
 
+/* PSD Portfolio */
+.psd-container {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+}
+.psd-item {
+  width: 100%;
+  height: auto;
+}
+.psd-item-1 {
+  grid-column: span 3;
+}
+.psd-item-2 {
+  grid-column: span 2;
+}
+.psd-item-3 {
+  grid-column: span 3;
+}
+.psd-item-4 {
+  grid-column: span 2;
+}
+.psd-item-5 {
+  grid-column: span 3;
+}
+.psd-item-6 {
+  grid-column: span 2;
+}
+.psd-item-7 {
+  grid-column: span 3;
+}
+
+
+
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
@@ -1056,6 +1089,10 @@ section {
 }
 
 @media (max-width: 768px) {
+  /* Responsive Grid PSD portfolio */
+  .psd-item {
+      grid-column: span 8;
+  }
   .breadcrumbs .d-flex {
     display: block !important;
   }
