@@ -520,6 +520,14 @@ section {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
+/* Website Item Portfolio */
+.website-item a {
+  width: 100%;
+  height: 100%;
+  display: block;
+  z-index: 999;
+  position: relative;
+}
 .portfolio .portfolio-item {
   margin-bottom: 30px;
 }
@@ -685,11 +693,11 @@ section {
 
 /* PSD Portfolio */
 .psd-container {
-  display: grid;
+  display: grid !important;
   grid-template-columns: repeat(8, 1fr);
 }
 .psd-item {
-  width: 100%;
+  width: 100% !important;
   height: auto;
 }
 .psd-item-1 {
@@ -705,7 +713,7 @@ section {
   grid-column: span 2;
 }
 .psd-item-5 {
-  grid-column: span 3;
+  grid-column: span 4;
 }
 .psd-item-6 {
   grid-column: span 2;

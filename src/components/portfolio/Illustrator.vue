@@ -3,10 +3,6 @@
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
                 <img src="assets/img/portfolio/ai/ai-1.jpg" class="img-fluid" alt="">
-                <div class="portfolio-links">
-                <!-- <a href="assets/img/portfolio/ai/ai-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                <a href="https://www.accutekpackaging.com/" title="More Details" target="_blank"><i class="bx bx-link"></i></a> -->
-                </div>
             </div>
             <div class="s_portfolio-details">
                 <h4>title: WP</h4>
@@ -16,49 +12,29 @@
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
                 <img src="assets/img/portfolio/ai/ai-2.jpg" class="img-fluid" alt="">
-                <div class="portfolio-links">
-                <!-- <a href="assets/img/portfolio/ai/ai-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="https://greenkong.com/" title="More Details" target="_blank"><i class="bx bx-link"></i></a> -->
-                </div>
             </div>
         </div>
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
                 <img src="assets/img/portfolio/ai/ai-3.jpg" class="img-fluid" alt="">
-                <div class="portfolio-links">
-                <!-- <a href="assets/img/portfolio/ai/ai-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-                <a href="http://shop1.com/" title="More Details" target="_blank"><i class="bx bx-link"></i></a> -->
-                </div>
             </div>
         </div>
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
                 <img src="assets/img/portfolio/ai/ai-4.jpg" class="img-fluid" alt="">
-                <div class="portfolio-links">
-                <!-- <a href="assets/img/portfolio/ai/ai-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                <a href="https://stocksoftheday.com/" title="More Details" target="_blank"><i class="bx bx-link"></i></a> -->
-                </div>
             </div>
         </div>
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
                 <img src="assets/img/portfolio/ai/ai-5.jpg" class="img-fluid" alt="">
-                <div class="portfolio-links">
-                <!-- <a href="assets/img/portfolio/ai/ai-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                <a href="https://dev.crossroadstrikes.com/" title="More Details" target="_blank"><i class="bx bx-link"></i></a> -->
-                </div>
             </div>
         </div>
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
                 <img src="assets/img/portfolio/ai/ai-6.jpg" class="img-fluid" alt="">
-                <div class="portfolio-links">
-                <!-- <a href="assets/img/portfolio/ai/ai-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                <a href="https://dev.crossroadstrikes.com/" title="More Details" target="_blank"><i class="bx bx-link"></i></a> -->
-                </div>
             </div>
         </div>
     </div>
